@@ -1,6 +1,6 @@
 # Java-Graph-Algorithm
 The program models the connections between the characters of the famous TV series: Game of Thrones. The data is available in the link below:
-https://github.com/melaniewalsh/sample-social-network-datasets/blob/master/sample-datasets/game-of-thrones/got-edges.csv#L1
+- https://github.com/melaniewalsh/sample-social-network-datasets/blob/master/sample-datasets/game-of-thrones/got-edges.csv#L1
 ----------------------
 - Weighted graph will represent these data with edge-weights equal to the connection strength between two individual characters.
 - SeriesCharacter is an object with name. The graph vertices are the Characters of this TV-Series.
